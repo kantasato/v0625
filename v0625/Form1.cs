@@ -20,6 +20,7 @@ namespace v0625
         {
             int a = 1;
             MessageBox.Show("" + (10 / a));
+            button1.Visible = false;
         }
     }
 }
